@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d979f18bc6e0a84690c9ffde327a9bd, type: 3}
+  m_Name: Dofawa
+  m_EditorClassIdentifier: 
+  visuelItem: {fileID: 21300000, guid: 1e632be8b4e82b042a5ab803d98320a0, type: 3}
+  typeItem: 0
+  panoplie: 0
+  categorie: 20
+  itemName: Dofawa
+  description: "Ce Dofus ressemble \xE9trangement \xE0 un \u0153uf de Dragodinde
+    sauvage... Pour une fois, les apparences ne sont peut-\xEAtre pas trompeuses."
+  level: 6
+  pods: 5
+  bonusData: {fileID: 0}
+  effets:
+  - type: 11
+    jetRange: 0100000001000000
+    jet: 0
+  itemsRecette: []
+  caracteristiques: []
+  conditions: []

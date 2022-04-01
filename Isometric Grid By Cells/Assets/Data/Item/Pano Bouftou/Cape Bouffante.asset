@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d979f18bc6e0a84690c9ffde327a9bd, type: 3}
+  m_Name: Cape Bouffante
+  m_EditorClassIdentifier: 
+  visuelItem: {fileID: 21300000, guid: 4b07b63ed7fb3b34ab8621731c225d94, type: 3}
+  typeItem: 0
+  panoplie: 2
+  categorie: 13
+  itemName: Cape Bouffante
+  description: "Cette cape a tout pour plaire : sa r\xE9sistance, son confort, sa
+    couleur, sa raret\xE9... En revanche son odeur est redoutable pour les parois
+    nasales. Mais bon, on ne peut pas tout avoir non plus."
+  level: 10
+  pods: 30
+  bonusData: {fileID: 11400000, guid: bb08fd89e1bc51744bb552d9efc9c179, type: 2}
+  effets:
+  - type: 10
+    jetRange: 010000002c010000
+    jet: 161
+  - type: 11
+    jetRange: 0100000028000000
+    jet: 4
+  itemsRecette: []
+  caracteristiques: []
+  conditions: []

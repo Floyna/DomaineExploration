@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f67f469d59fac614caafc4af15418b4c, type: 3}
+  m_Name: Bouftou
+  m_EditorClassIdentifier: 
+  visuel: {fileID: 3819927470616201748, guid: 703dd0d21c98bc24a8467074ace0b39d, type: 3}
+  experience: 1
+  name_enemy: Bouftou
+  level_min: 1
+  level_max: 10
+  speed: 5
+  pdvMax: 30
+  pa: 6
+  pm: 3
+  initiative: 1
+  vitalite: 0
+  sagesse: 0
+  force: 5
+  intel: 0
+  chance: 0
+  agilite: 5
+  resiNeutre: 0
+  resiTerre: 0
+  resiFeu: 0
+  resiEau: 0
+  resiAir: 0
+  typeIA: 0

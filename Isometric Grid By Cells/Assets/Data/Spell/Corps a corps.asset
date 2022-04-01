@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70fe3d373d4f71844a5a572b8872a9c8, type: 3}
+  m_Name: Corps a corps
+  m_EditorClassIdentifier: 
+  visuelSpell: {fileID: 21300000, guid: 369c011b2b061364592b5124949336a2, type: 3}
+  spellName: "Corps \xE0 corps"
+  description: "Inflige des d\xE9g\xE2ts en fonction de l'arme port\xE9e."
+  level: 0100000001000000
+  po: 0100000001000000
+  crit: 0100000014000000
+  effets:
+  - type: 0
+    element: 1
+    etat: 0
+    jet: 0200000006000000
+    duration: 0
+  pa: 3
+  nbrAttackPerTurn: 0
+  nbrAttackPerEntite: 0
+  nbrTurnBeforReAttack: 0
+  poModifialbe: 0
+  freeLdv: 1
+  inLineOnly: 0
+  celluleLibre: 0
+  typeSpell: 00000000

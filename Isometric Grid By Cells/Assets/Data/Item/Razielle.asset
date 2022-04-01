@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d979f18bc6e0a84690c9ffde327a9bd, type: 3}
+  m_Name: Razielle
+  m_EditorClassIdentifier: 
+  visuelItem: {fileID: 21300000, guid: 6ea1d8cbb4313304b8131d32298f237c, type: 3}
+  typeItem: 0
+  panoplie: 0
+  categorie: 4
+  itemName: Razielle
+  description: "Cette \xE9p\xE9e a \xE9t\xE9 b\xE9nie par les larmes de l'ange Raziel.
+    Terriblement destructrice elle est suffisamment puissante pour permettre \xE0
+    son porteur d'affronter le plus terrible des adversaires."
+  level: 52
+  pods: 50
+  bonusData: {fileID: 0}
+  effets:
+  - type: 26
+    jetRange: 1a00000028000000
+    jet: 37
+  - type: 13
+    jetRange: 1e0000001e000000
+    jet: 30
+  - type: 16
+    jetRange: 2800000028000000
+    jet: 40
+  - type: 11
+    jetRange: 2800000028000000
+    jet: 40
+  - type: 29
+    jetRange: 0a0000000a000000
+    jet: 10
+  - type: 32
+    jetRange: 0a0000000a000000
+    jet: 10
+  itemsRecette: []
+  caracteristiques:
+  - typeCaract: 0
+    jet: 05000000
+  - typeCaract: 1
+    jet: 0100000001000000
+  - typeCaract: 2
+    jet: 0f000000
+  - typeCaract: 3
+    jet: 0100000028000000
+  conditions:
+  - type: 12
+    jet: 104
+  - type: 10
+    jet: 52
+  - type: 15
+    jet: 20

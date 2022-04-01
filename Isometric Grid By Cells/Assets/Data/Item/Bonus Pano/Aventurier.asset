@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 277ad19725a9b3b4db8fbb63b24d7050, type: 3}
+  m_Name: Aventurier
+  m_EditorClassIdentifier: 
+  panoplie: 1
+  itemPanoCount: 6
+  itemPano:
+  - {fileID: 11400000, guid: b9cc021d9dbae4a4587b20ba10be929a, type: 2}
+  - {fileID: 11400000, guid: aaf0d82462536274db60785d217b15f3, type: 2}
+  - {fileID: 11400000, guid: 79c7977305f20294fb6978c0924c1e1d, type: 2}
+  - {fileID: 11400000, guid: 532b6cdddb9a0e944852c31a0e995ece, type: 2}
+  - {fileID: 11400000, guid: dba7efd62ec34684b95ce568887389aa, type: 2}
+  - {fileID: 11400000, guid: 10f6b06bcdbe63549b11ae8ff6f02186, type: 2}
+  bonus:
+  - type: 0b0000000c0000000d0000000e0000000f00000010000000
+    jet: 0a0000000a0000000a0000000a0000000a0000000a000000
+  - type: 0b0000000c0000000d0000000e0000000f00000010000000
+    jet: 0f0000000f0000000f0000000f0000000f0000000f000000
+  - type: 0b0000000c0000000d0000000e0000000f00000010000000
+    jet: 140000001400000014000000140000001400000014000000
+  - type: 0b0000000c0000000d0000000e0000000f00000010000000
+    jet: 190000001900000019000000190000001900000019000000
+  - type: 0b0000000c0000000d0000000e0000000f00000010000000
+    jet: 280000002800000028000000280000002800000028000000

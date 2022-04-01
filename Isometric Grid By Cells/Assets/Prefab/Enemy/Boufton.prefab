@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2555837874522869542
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2555837874522869540}
+  - component: {fileID: 2555837874522869541}
+  - component: {fileID: 2555837874522869537}
+  - component: {fileID: 2555837874522869538}
+  - component: {fileID: 2555837874522869539}
+  m_Layer: 0
+  m_Name: Boufton
+  m_TagString: Enemy
+  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2555837874522869540
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2555837874522869542}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.3499999, y: 3.7, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2555837874522869541
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2555837874522869542}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62b52e456f11e084a8ea5fdb5202a985, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  alive: 0
+  inFight: 0
+  isOnFinalDestPoint: 0
+  speed: 0
+  experience: 0
+  name_enemy: 
+  level: 0
+  level_min: 0
+  level_max: 0
+  pdv: 0
+  pdvMax: 0
+  pa: 0
+  pm: 0
+  paMax: 0
+  pmMax: 0
+  initiative: 0
+  vitalite: 0
+  sagesse: 0
+  force: 0
+  intel: 0
+  chance: 0
+  agilite: 0
+  resiNeutre: 0
+  resiTerre: 0
+  resiFeu: 0
+  resiEau: 0
+  resiAir: 0
+  gridPos: {x: 8, y: 5}
+  visuel_enemy: {fileID: 0}
+  destPoint: 0
+  curPos: {x: 1.3499999, y: 3.7}
+  lastPath: {x: 8, y: 5}
+  enemyData: {fileID: 11400000, guid: 7f2bb0218138ab34b9586c5f15f9d9d0, type: 2}
+  listSpell:
+  - {fileID: 11400000, guid: fb594754fd2c64940a2687d7b19ee9c9, type: 2}
+  - {fileID: 11400000, guid: d77a2759e293c44478ed4ee04044c22a, type: 2}
+  - {fileID: 11400000, guid: e053c6b93cf73524abd2bf963fc59129, type: 2}
+  circleColllider: {fileID: 2555837874522869538}
+  rb: {fileID: 2555837874522869539}
+  myTurn: 1
+  inMove: 0
+  willBeInCac: 0
+  inCacPlayer: 0
+  inAttack: 0
+  willBeInPo: 0
+  typeIA: 0
+  minCoutPA: 0
+--- !u!114 &2555837874522869537
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2555837874522869542}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18bc80afd85d5284db5175fa7b1d10b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  listEnemy: []
+--- !u!58 &2555837874522869538
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2555837874522869542}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.4
+--- !u!50 &2555837874522869539
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2555837874522869542}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 1
+  m_Constraints: 4

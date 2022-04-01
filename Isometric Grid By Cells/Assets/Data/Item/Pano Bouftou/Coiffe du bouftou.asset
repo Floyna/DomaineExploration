@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d979f18bc6e0a84690c9ffde327a9bd, type: 3}
+  m_Name: Coiffe du bouftou
+  m_EditorClassIdentifier: 
+  visuelItem: {fileID: 21300000, guid: 61a654bd1ea8ad34096879a6cf21e01d, type: 3}
+  typeItem: 0
+  panoplie: 2
+  categorie: 12
+  itemName: Coiffe du Bouftou
+  description: "Ce superbe chapeau permet \xE0 son porteur de gagner force et intelligence
+    si ce dernier parvient \xE0 s'accommoder de l'odeur."
+  level: 10
+  pods: 15
+  bonusData: {fileID: 11400000, guid: bb08fd89e1bc51744bb552d9efc9c179, type: 2}
+  effets:
+  - type: 13
+    jetRange: 0100000028000000
+    jet: 28
+  - type: 14
+    jetRange: 0100000028000000
+    jet: 27
+  itemsRecette: []
+  caracteristiques: []
+  conditions: []

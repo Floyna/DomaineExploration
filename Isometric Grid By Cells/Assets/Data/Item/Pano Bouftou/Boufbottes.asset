@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d979f18bc6e0a84690c9ffde327a9bd, type: 3}
+  m_Name: Boufbottes
+  m_EditorClassIdentifier: 
+  visuelItem: {fileID: 21300000, guid: 19b1996040c2c9d40af9906b0e2a7303, type: 3}
+  typeItem: 0
+  panoplie: 2
+  categorie: 18
+  itemName: Boufbottes
+  description: "Ces Bottes sont d'un confort in\xE9gal\xE9, l'int\xE9rieur a l'air
+    d'\xEAtre doubl\xE9 en laine de Bouftou, mais on peut ressentir \xE9galement
+    comme un liquide circulant entre les orteils. Reste \xE0 savoir si c'est de la
+    Bave ou du Sang de Bouftou. Peu importe."
+  level: 10
+  pods: 15
+  bonusData: {fileID: 11400000, guid: bb08fd89e1bc51744bb552d9efc9c179, type: 2}
+  effets:
+  - type: 11
+    jetRange: 010000001e000000
+    jet: 16
+  - type: 5
+    jetRange: 010000000f000000
+    jet: 13
+  itemsRecette: []
+  caracteristiques: []
+  conditions: []

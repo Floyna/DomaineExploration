@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d979f18bc6e0a84690c9ffde327a9bd, type: 3}
+  m_Name: Bouloute
+  m_EditorClassIdentifier: 
+  visuelItem: {fileID: 21300000, guid: c2dd0a3afc0e4d8469d8c21cfc49612a, type: 3}
+  typeItem: 0
+  panoplie: 2
+  categorie: 21
+  itemName: Bouloute
+  description: "Ce petit monstre vous suivra partout, et se nourrira des restes de
+    ses cong\xE9n\xE8res. Tant\xF4t terrifiant, tant\xF4t amusant, il \xE9gayera
+    votre vie, avant de peut-\xEAtre vous la prendre d\xE9finitivement."
+  level: 1
+  pods: 10
+  bonusData: {fileID: 11400000, guid: bb08fd89e1bc51744bb552d9efc9c179, type: 2}
+  effets:
+  - type: 11
+    jetRange: 0100000096000000
+    jet: 0
+  itemsRecette: []
+  caracteristiques: []
+  conditions: []

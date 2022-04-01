@@ -1,0 +1,1152 @@
+fileFormatVersion: 2
+guid: 9790aff67494c0e4a8a16d0831e10d5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1547440694591181504
+    second: lrq-iso-armor-heavy_0
+  - first:
+      213: 1839598327885946967
+    second: lrq-iso-armor-heavy_1
+  - first:
+      213: 2016602479420435668
+    second: lrq-iso-armor-heavy_2
+  - first:
+      213: -3751130486646572395
+    second: lrq-iso-armor-heavy_3
+  - first:
+      213: -8251378151652582223
+    second: lrq-iso-armor-heavy_4
+  - first:
+      213: -895936048769929846
+    second: lrq-iso-armor-heavy_5
+  - first:
+      213: 3300626745928899907
+    second: lrq-iso-armor-heavy_6
+  - first:
+      213: -3749277597425689201
+    second: lrq-iso-armor-heavy_7
+  - first:
+      213: -7904962094119116836
+    second: lrq-iso-armor-heavy_8
+  - first:
+      213: -2628477520728438019
+    second: lrq-iso-armor-heavy_9
+  - first:
+      213: -5519517812631396905
+    second: lrq-iso-armor-heavy_10
+  - first:
+      213: 5286156519930490157
+    second: lrq-iso-armor-heavy_11
+  - first:
+      213: 297567308566300612
+    second: lrq-iso-armor-heavy_12
+  - first:
+      213: -4368293652450878554
+    second: lrq-iso-armor-heavy_13
+  - first:
+      213: -1030659839298452981
+    second: lrq-iso-armor-heavy_14
+  - first:
+      213: -6822358949766118328
+    second: lrq-iso-armor-heavy_15
+  - first:
+      213: -5086526011594832938
+    second: lrq-iso-armor-heavy_16
+  - first:
+      213: 3886098504224759978
+    second: lrq-iso-armor-heavy_17
+  - first:
+      213: 2771938412989970423
+    second: lrq-iso-armor-heavy_18
+  - first:
+      213: 7073329666868323036
+    second: lrq-iso-armor-heavy_19
+  - first:
+      213: 3294108205293338438
+    second: lrq-iso-armor-heavy_20
+  - first:
+      213: -521699204092570961
+    second: lrq-iso-armor-heavy_21
+  - first:
+      213: 4170281657894392760
+    second: lrq-iso-armor-heavy_22
+  - first:
+      213: 5517425686384416243
+    second: lrq-iso-armor-heavy_23
+  - first:
+      213: 9028494180205329579
+    second: lrq-iso-armor-heavy_24
+  - first:
+      213: 7586017769240988564
+    second: lrq-iso-armor-heavy_25
+  - first:
+      213: -1016683766612226536
+    second: lrq-iso-armor-heavy_26
+  - first:
+      213: 1982963048119303790
+    second: lrq-iso-armor-heavy_27
+  - first:
+      213: -893176628399834694
+    second: lrq-iso-armor-heavy_28
+  - first:
+      213: 8155702609380301493
+    second: lrq-iso-armor-heavy_29
+  - first:
+      213: -4910595010295024854
+    second: lrq-iso-armor-heavy_30
+  - first:
+      213: 165880291305289857
+    second: lrq-iso-armor-heavy_31
+  - first:
+      213: -1294052466732694091
+    second: lrq-iso-armor-heavy_32
+  - first:
+      213: 2547048848126045131
+    second: lrq-iso-armor-heavy_33
+  - first:
+      213: -7971145574568428831
+    second: lrq-iso-armor-heavy_34
+  - first:
+      213: 1734477974101476305
+    second: lrq-iso-armor-heavy_35
+  - first:
+      213: -9163705659303213215
+    second: lrq-iso-armor-heavy_36
+  - first:
+      213: 6420158132016429265
+    second: lrq-iso-armor-heavy_37
+  - first:
+      213: 4592464560987544795
+    second: lrq-iso-armor-heavy_38
+  - first:
+      213: -7012585205665754790
+    second: lrq-iso-armor-heavy_39
+  - first:
+      213: 5573527229934222566
+    second: lrq-iso-armor-heavy_40
+  - first:
+      213: 1905084333340810910
+    second: lrq-iso-armor-heavy_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 320
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c25710fc1d997510800000000000000
+      internalID: 1547440694591181504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 299
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7506b0fbee0978910800000000000000
+      internalID: 1839598327885946967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 299
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dce60745496cfb10800000000000000
+      internalID: 2016602479420435668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 299
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59afa4d52be41fbc0800000000000000
+      internalID: -3751130486646572395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 320
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc145be9473d7d80800000000000000
+      internalID: -8251378151652582223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 299
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8de99719eef093f0800000000000000
+      internalID: -895936048769929846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 299
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dde37b98e2ecd20800000000000000
+      internalID: 3300626745928899907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 256
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d9c11c3e3e7fbc0800000000000000
+      internalID: -3749277597425689201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 235
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf1a119bdeeb4290800000000000000
+      internalID: -7904962094119116836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 235
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfac1e40f95c58bd0800000000000000
+      internalID: -2628477520728438019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 235
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd1aa60bcbb663b0800000000000000
+      internalID: -5519517812631396905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 256
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d629df8533c5940800000000000000
+      internalID: 5286156519930490157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 235
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c70ddbf3eb212400800000000000000
+      internalID: 297567308566300612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 235
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab521b3114b063c0800000000000000
+      internalID: -4368293652450878554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 192
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02ca5a365c52b1f0800000000000000
+      internalID: -1030659839298452981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 171
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844cbfc7eac1251a0800000000000000
+      internalID: -6822358949766118328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 171
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d30b12ca870969b0800000000000000
+      internalID: -5086526011594832938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 171
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa06e7a00023ee530800000000000000
+      internalID: 3886098504224759978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 192
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7f68ddc47e77620800000000000000
+      internalID: 2771938412989970423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 171
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd22bec1bd3892260800000000000000
+      internalID: 7073329666868323036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 171
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f7534b5f507bd20800000000000000
+      internalID: 3294108205293338438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 128
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa25574865d82c8f0800000000000000
+      internalID: -521699204092570961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 107
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b35f10a211dfd930800000000000000
+      internalID: 4170281657894392760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 107
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f51f8fdd65d19c40800000000000000
+      internalID: 5517425686384416243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 107
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacf1d33f97ab4d70800000000000000
+      internalID: 9028494180205329579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 128
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b096bf7f2f64960800000000000000
+      internalID: 7586017769240988564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 107
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e0c2a308304e1f0800000000000000
+      internalID: -1016683766612226536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_27
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 107
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e70e5d266e48b10800000000000000
+      internalID: 1982963048119303790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 64
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9fb86b69cca93f0800000000000000
+      internalID: -893176628399834694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 43
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bad6ddff40ee2170800000000000000
+      internalID: 8155702609380301493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_30
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 43
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a233f870bdf0adbb0800000000000000
+      internalID: -4910595010295024854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 43
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1887d7efe335d4200800000000000000
+      internalID: 165880291305289857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 64
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b50eaf332a9a0ee0800000000000000
+      internalID: -1294052466732694091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 43
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbee1abe6fe85320800000000000000
+      internalID: 2547048848126045131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 43
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eafbe6355dc06190800000000000000
+      internalID: -7971145574568428831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_35
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3ce0d178a121810800000000000000
+      internalID: 1734477974101476305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 17
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167cef6114af3d080800000000000000
+      internalID: -9163705659303213215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_37
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8bcac3ecbf81950800000000000000
+      internalID: 6420158132016429265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc9b31bf26bbbf30800000000000000
+      internalID: 4592464560987544795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a511223e8ea4eae90800000000000000
+      internalID: -7012585205665754790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_40
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 5
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec323e5c75295d40800000000000000
+      internalID: 5573527229934222566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lrq-iso-armor-heavy_41
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ed0fb8b18307a10800000000000000
+      internalID: 1905084333340810910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

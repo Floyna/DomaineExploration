@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d979f18bc6e0a84690c9ffde327a9bd, type: 3}
+  m_Name: Dofus Pourpre
+  m_EditorClassIdentifier: 
+  visuelItem: {fileID: 21300000, guid: f5b15d8b83f3b6240b2bca1c52a58b61, type: 3}
+  typeItem: 0
+  panoplie: 0
+  categorie: 20
+  itemName: Dofus Pourpre
+  description: "C'est le Dragon du Feu Ignemikhal qui cr\xE9a le Dofus Pourpre, un
+    \u0152uf dont le moins qu'on puisse dire, c'est qu'il sent le soufre - mais il
+    sent bien d'autres choses encore..."
+  level: 6
+  pods: 5
+  bonusData: {fileID: 0}
+  effets:
+  - type: 5
+    jetRange: 1a00000032000000
+    jet: 0
+  itemsRecette: []
+  caracteristiques: []
+  conditions: []

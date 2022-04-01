@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpawnPoint
+  - Enemy
+  - Text_Panel_Enemy
+  - Slot
+  - SpellDrag
+  - Panel
+  - Panel_Info_User
+  - Panel_Info_Mob
+  - SpellUI
+  - SlotItem
+  - SlotSpell
+  - Panel_Info_Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2486500531
+    locked: 0
+  - name: Raise
+    uniqueID: 309721195
+    locked: 0
+  - name: Grid
+    uniqueID: 1730840935
+    locked: 0
+  - name: Characters
+    uniqueID: 2249782365
+    locked: 0
+  - name: UI
+    uniqueID: 3845045857
+    locked: 0

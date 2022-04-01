@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70fe3d373d4f71844a5a572b8872a9c8, type: 3}
+  m_Name: Fleche Cinglante
+  m_EditorClassIdentifier: 
+  visuelSpell: {fileID: 21300000, guid: 708631a71ad05214e9bd27ce7923c663, type: 3}
+  spellName: "Fl\xE8che Cinglante"
+  description: "Occasionne des dommages Terre et retire des PM sans possibilit\xE9
+    d'esquive."
+  level: 0100000006000000
+  po: 0100000005000000
+  crit: 0100000028000000
+  effets:
+  - type: 0
+    element: 2
+    etat: 0
+    jet: 0600000007000000
+    duration: 0
+  - type: 10
+    element: 0
+    etat: 0
+    jet: 02000000
+    duration: 0
+  pa: 3
+  nbrAttackPerTurn: 0
+  nbrAttackPerEntite: 1
+  nbrTurnBeforReAttack: 0
+  poModifialbe: 1
+  freeLdv: 1
+  inLineOnly: 0
+  celluleLibre: 0
+  typeSpell: 00000000
